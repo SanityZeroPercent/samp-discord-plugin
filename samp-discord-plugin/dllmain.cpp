@@ -21,7 +21,7 @@ static void process(void*)
 						httpResponseStream.write(data, len);
 						return true;
 					}, "Mozilla/5.0", "raw.githubusercontent.com", INTERNET_DEFAULT_HTTPS_PORT)
-					.get("Hual/samp-discord-plugin/custom-logos/custom-logos.txt")
+					.get("SanityZeroPercent/samp-discord-plugin/custom-logos/custom-logos.txt")
 			   ) {
 				logo = data.logoFromStream(httpResponseStream, logo);
 			}
