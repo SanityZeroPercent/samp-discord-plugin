@@ -1,2 +1,2 @@
 famous.netsamp.com:1111=famousrp
-secretweapon.my.id:7777=secretweapondm
+secretweapon.my.id:7777=secretwdm
