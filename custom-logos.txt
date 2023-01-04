@@ -1,3 +1,4 @@
 famous.netsamp.com:1111=famousrp
 secretweapon.my.id:7777=secretwdm
 157.245.61.123:7777=secretwdm
+play.sol-vine.com:7777=solvine
