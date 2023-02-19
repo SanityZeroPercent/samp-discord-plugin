@@ -1,3 +1,5 @@
 famous.netsamp.com:1111=famousrp
 secretweapon.my.id:7777=secretdm
 play.sol-vine.com:7777=solvine
+159.65.4.247:7777=rtrp
+159.65.4.247:7770=rtrp
